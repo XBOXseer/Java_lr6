@@ -14,7 +14,7 @@
 
 1. Клонуйте репозиторій:
     ```bash
-    git clone https://github.com/XBOXseer/Java_lr4.git
+    git clone https://github.com/XBOXseer/Java_lr6.git
     ```
 
 2. Перейдіть у директорію проєкту:
